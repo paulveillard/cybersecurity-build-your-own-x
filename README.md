@@ -444,8 +444,8 @@ An ongoing & curated collection of awesome software best practices and technique
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
 ## How to contribute 
-* Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
-* Help me to review [pending submissions](https://github.com/danistefanovic/build-your-own-x/issues) by leaving comments and "reactions"
+* Contributions are very welcome: [Submit tutorial](https://github.com/paulveillard/cybersecurity-build-your-own-x/issues/new)
+* Help me to review [pending submissions](https://github.com/paulveillard/cybersecurity-build-your-own-x/issues) by leaving comments and "reactions"
 
 
 
